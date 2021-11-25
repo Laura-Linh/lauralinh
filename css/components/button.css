@@ -1,0 +1,25 @@
+.button-blue {
+  background-color: rgba(100, 149, 237, 1);
+  color: white;
+  border-radius: 10px;
+  width: 100px;
+}
+
+.button-blue:hover {
+ background-color: rgba(100, 149, 237, 0.8);
+}
+
+.button-black {
+  color: black;
+}
+
+
+.button-white {
+  color: black;
+  border-radius: 10px;
+  width: 200px;
+}
+
+.button-white:hover {
+ background-color: rgb(239, 239, 239, 0.8);
+}
