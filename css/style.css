@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Tangerine&display=swap');
+@import url('components/card.css');
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/navbar.css');
+
+body {
+  background-color : white;
+  font-size: 18px;
+  margin: 0px;
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+}
+
+h1, h2, h3 {
+  font-family: 'Tangerine', cursive;
+  font-size: 70px;
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: rgb(241, 241, 241);
